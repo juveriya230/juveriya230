@@ -14,7 +14,7 @@
 
 <p align="center">
 
-<a href="YOUR_RESUME_LINK">
+<a href="https://github.com/juveriya230/juveriya230/raw/main/Resume2026.pdf">
 <img src="https://img.shields.io/badge/📄%20Resume-7C3AED?style=for-the-badge"/>
 </a>
 
@@ -42,10 +42,13 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-🎓 **Bachelor of Technology**  
-Computer Science & Technology
+🎓 **B.Tech in Computer Science & Technology**
 
-🏫 **Symbiosis Institute of Technology, Hyderabad**
+🏫 Symbiosis Institute of Technology, Hyderabad
+
+📈 **CGPA:** **8.46 / 10.0**
+
+🎯 **Expected Graduation:** May 2028
 
 📍 Hyderabad, Telangana, India
 
