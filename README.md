@@ -1,120 +1,164 @@
-# 📊 GitHub Analytics
+<h1 align="center">Hi 👋, I'm Juveriya Begum</h1>
 
-<div align="center">
+<h3 align="center">
+Computer Science & Technology Student • Data Analytics • Data Science • Artificial Intelligence
+</h3>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juveriya230&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+Building intelligent solutions through data, analytics, and software development.
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juveriya230&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=juveriya230&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+<a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/juveriya230"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:juveriyakhan08862@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 👩‍💻 About Me
 
-<div align="center">
+I am a Computer Science & Technology student at **Symbiosis Institute of Technology, Hyderabad**, passionate about transforming data into meaningful insights and building impactful software solutions.
 
-<img src="https://github-profile-trophy.vercel.app/?username=juveriya230&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
+My interests include **Data Analytics, Data Science, Artificial Intelligence, Machine Learning, and Backend Development**. I enjoy solving real-world problems through technology while continuously learning modern tools and frameworks.
 
 ---
 
-# 📈 Contribution Activity
+# 🎓 Education
 
-<div align="center">
+**Symbiosis Institute of Technology, Hyderabad**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juveriya230&theme=tokyo-night&hide_border=true"/>
+Bachelor of Technology
 
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/juveriya230/juveriya230/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
+Computer Science & Technology
 
 ---
 
-# 🎯 Current Focus
+# 💻 Technical Skills
 
-```yaml
-learning:
-  - Data Analytics
-  - Data Science
-  - Machine Learning
-  - Artificial Intelligence
-  - Advanced SQL
-  - Tableau
-  - Cloud Computing
+### Programming Languages
 
-building:
-  - AI Applications
-  - Data Analytics Dashboards
-  - Full Stack Projects
-  - Open Source Contributions
+- Python
+- Java
+- C
+- C++
+- SQL
 
-exploring:
-  - Business Intelligence
-  - Predictive Analytics
-  - Generative AI
-  - Cloud Technologies
+### Data Analytics
 
-open_to:
-  - Data Analyst Internship
-  - Data Science Internship
-  - AI/ML Internship
-  - Software Engineering Internship
-```
+- SQL
+- Excel
+- Pandas
+- NumPy
+- Tableau
+- Power BI
 
----
+### Artificial Intelligence
 
-# 🤝 Let's Connect
+- Machine Learning
+- Data Visualization
+- Data Analysis
 
-<div align="center">
+### Web Development
 
-<a href="mailto:juveriyakhan08862@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
 
-<a href="https://linkedin.com/in/juveriya-76284a328">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### Developer Tools
 
-<a href="https://github.com/juveriya230">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+- Git
+- GitHub
+- VS Code
 
 ---
 
-# 💜 Quote
+# 🚀 Featured Projects
 
-<div align="center">
+### 📍 Real-Time Device Tracking System
 
-### *"Turning data into insights, ideas into solutions, and challenges into opportunities."*
-
-</div>
+- Real-time tracking
+- Google Authentication
+- MongoDB
+- Socket.IO
 
 ---
 
-<div align="center">
+### 🔐 Smart Password-Controlled Lab Box
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:7B2CBF,100:3A0CA3&height=120&section=footer"/>
+- Arduino
+- Servo Motor
+- LCD
+- Password Authentication
 
-</div>
+---
+
+### 📊 Multi-Lingual Lexical Analyzer
+
+- Python
+- NLP
+- Data Analysis
+- Visualization
+
+---
+
+# 📜 Certifications
+
+- Microsoft Applied Skills
+- Infosys Springboard
+- Deloitte Data Analytics Job Simulation
+- HP LIFE Certifications
+
+---
+
+# 💼 Leadership & Experience
+
+- Google Student Ambassador
+- Industry Institute Interaction Committee (IIIC)
+- Technical Club Activities
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=juveriya230&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juveriya230&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juveriya230&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 Email
+
+juveriyakhan08862@gmail.com
+
+💼 LinkedIn
+
+(Add your LinkedIn URL)
+
+💻 GitHub
+
+https://github.com/juveriya230
+
+---
+
+<p align="center">
+
+⭐ Thank you for visiting my profile!
+
+Let's build, learn, and grow together.
+
+</p>
